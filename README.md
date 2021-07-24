@@ -1,3 +1,5 @@
+Luiza Rodrigues de Souza - 216.031.081
+
 # SLR vs LALR
 
 Trabalho da disciplina Compiladores 2021.1
